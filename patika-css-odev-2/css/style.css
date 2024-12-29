@@ -1,0 +1,74 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-size: 17px;
+}
+/* HEADER - START */
+header .google-image{
+    width: 351px;
+    height: 113px;
+    max-width: 351px;
+    max-height: 113px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+/* HEADER - END */
+
+/* SECTION */
+.search-message{
+    
+    text-align: center;
+}
+section form article{
+    margin-bottom: 10px;
+}
+section form article div button{
+height: 30px;
+padding: 5px;
+}
+.before-footer{
+    display: flex;
+    justify-content: center;
+}
+.before-footer .card-3,
+.before-footer .card-2,
+.before-footer .card-1{
+    padding-right: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    display: flex;
+}
+
+.before-footer .card-1{
+    height: 100px;
+    width: 440px;
+    max-height: 100px;
+    max-width: 440px;
+    background-color: aqua;
+}
+
+.before-footer .card-2{
+    height: 100px;
+    max-height: 100px;
+    width: 240px;
+    max-width: 240px;
+    background-color:aquamarine
+}
+
+.before-footer .card-3{
+    height: 100px;
+    max-height: 100px;
+    width: 520px;
+    max-width: 520px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #3b61c9c2;
+}
+.before-footer div ul li{
+    list-style-type: none;
+    text-align: center;
+}
